@@ -1,0 +1,22 @@
+{
+    "name": "eugenebunin/translator",
+    "description": "Translator for Laravel 5.3 ported from Laravel 5.4",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eugene B",
+            "email": "eugene@inlu.net"
+        },
+        {
+            "name": "Mohamed S"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+    },
+    "autoload": {
+        "psr-4": {
+            "EugeneBunin\\Translator\\": "src/"
+        }
+    }
+}
