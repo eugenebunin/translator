@@ -18,5 +18,6 @@
         "psr-4": {
             "EugeneBunin\\Translator\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
