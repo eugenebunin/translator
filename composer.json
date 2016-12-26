@@ -2,6 +2,12 @@
     "name": "eugenebunin/translator",
     "description": "JSON based translator for Laravel 5.3 ported from Laravel 5.4",
     "license": "MIT",
+    "keywords": [
+        "Laravel",
+        "Translation",
+        "Translator",
+        "Json"
+    ],
     "authors": [
         {
             "name": "Eugene B",
